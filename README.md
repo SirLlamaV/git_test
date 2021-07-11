@@ -1,3 +1,3 @@
 First git project
 
-Lots to learn
+Lots to learn!
